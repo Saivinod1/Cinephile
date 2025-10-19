@@ -35,7 +35,7 @@ Tech Stack
 - Styling: Tailwind CSS, Lucide React for icons
 - Backend: Supabase (Database, Auth, RLS)
 - Database: PostgreSQL with Row Level Security
-- Deployment: Netlify ([Live Demo](cinephile05.netlify.app/))
+- Deployment: Netlify ([Live Demo](https://cinephile05.netlify.app/))
 
 Getting Started
 
